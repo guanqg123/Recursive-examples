@@ -1,4 +1,4 @@
-print("Following is fib(n-1)+fib(n-2)")
+print("Following is fib(n) = fib(n-1)+fib(n-2)")
 #stacking and executing like:
 #call    fib(5)
 #store   fib(4)+fib(3)
