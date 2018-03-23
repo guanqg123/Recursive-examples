@@ -43,7 +43,7 @@ def fib(n):
         return res
 fib(5)
 
-print("Fllowing is fib(n-2)+fib(n-1)")
+print("Fllowing is fib(n) = fib(n-2)+fib(n-1)")
 
 def fib(n):
     print("call  fib({})".format(n))
